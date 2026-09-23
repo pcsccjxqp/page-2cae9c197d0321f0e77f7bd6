@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agaak.cn/sitemap.xml

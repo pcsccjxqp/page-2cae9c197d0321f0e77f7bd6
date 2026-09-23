@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "456a64e1c146b585fd651da6",
+  "owner": "pcsccjxqp",
+  "repo": "page-2cae9c197d0321f0e77f7bd6",
+  "title": "创世",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2cae9c197d0321f0e77f7bd6",
+      "a": "创世",
+      "b": "2027官方最新地址导航",
+      "entity": "创世",
+      "brand": "创世",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cb6784647adf604540a295fb8adb14ae1e684d1a2dd835dc275fd761d50d37e3",
+      "content": {
+        "primary_entity": "创世",
+        "keyword1": "创世",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 各有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和每月流量需求选定套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选套餐并开始使用",
+          "AI_DESCRIPTION": "，创世提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并配备 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备。按年付可节省两个月费用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量挑选。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖手机、电脑与平板。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付约省两个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置的三步。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "创世提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 到 1000GB 月流量，支持 3 至 20 台设备，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "创世订阅，按设备与流量挑选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付约省两个月费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版含 IPLC 专线，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量、设备限制与是否含 IPLC 专线等适配要求。",
+          "AI_STEP_TEXT_3": "依 Windows、macOS、Android 或 iOS 客户端文档导入订阅并开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "创世订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "创世套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "根据设备数量和流量需求判断。1至3台设备、月流量100GB以内可选基础版；5台设备、需要流媒体或游戏加速可选旗舰版；20台设备或企业用途可选团队版。",
+          "AI_FAQ_QUESTION_2": "创世支持哪些客户端？",
+          "AI_FAQ_ANSWER_2": "根据设备平台选择对应客户端：Windows和macOS可用Clash、v2rayN，Android可用v2rayNG、Clash for Android，iOS可用Shadowrocket、Stash，路由器可尝试OpenWrt插件。安装后按客户端文档配置订阅。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，灵活调整；年付一次性支付，基础版150元、旗舰版350元、团队版850元，相比月付连续使用更省钱。适合确定长期使用的场景。",
+          "AI_FAQ_QUESTION_4": "创世设备数量限制如何理解？",
+          "AI_FAQ_ANSWER_4": "每个套餐限制同时在线设备数：基础版3台、旗舰版5台、团队版20台。超出数量可能导致新设备无法连接，可根据使用人数选择更高档套餐。",
+          "AI_FAQ_QUESTION_5": "订阅配置遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "确认订阅链接是否完整复制，检查客户端版本与所选套餐的线路类型是否匹配，再对照客户端文档核对导入步骤。团队版用户可联系专属客户经理协助排查。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "agaak.cn",
+    "host": "agaak.cn"
+  },
+  "file_hashes": {
+    "index.html": "21524dc80accd47cb9e3aceaa00e177bbd890f478170f554b8c178602f009a42",
+    "sitemap.xml": "aa52032c85454015706034fc303e2db444d15a542e1c6eaea188c685f4f7c599",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "62a5c88da90ddbb94d9ee569236b100a1fc8a1e10c41cdf47ad824be1b27ae4c",
+    "robots.txt": "778075c4cd9a405454e3dcba43911d5f3aff74d9edc05066492ed43682507544",
+    "cf58069091a599c2fa770fb5492c3eee.txt": "17437c1fb8f4a5e135bdfb6770cb6e768d0c3a48fcbb42a8cbe4f6a6b9ba2990"
+  },
+  "revision": "e15aa3b40c6ec71e78c0e1d854f47d3d9a204d3357ff1fb87e257a966fa88912"
+}
